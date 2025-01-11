@@ -1,3 +1,7 @@
 hello!!
+<<<<<<< Updated upstream
 demo2
 hello!!
+=======
+git stash demo
+>>>>>>> Stashed changes
